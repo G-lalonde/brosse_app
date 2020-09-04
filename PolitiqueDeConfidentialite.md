@@ -1,12 +1,12 @@
 **Politique de confidentialité**
 
-Jérémy Lalonde a créé l'application Chaud Bateau en tant qu'application gratuite. Ce SERVICE est fourni gratuitement par Jérémy Lalonde et est destiné à être utilisé tel quel.
+Jérémy Lalonde a créé l'application Brosse en tant qu'application gratuite. Ce SERVICE est fourni gratuitement par Jérémy Lalonde et est destiné à être utilisé tel quel.
 
 Cette page est utilisée pour informer les visiteurs de mes politiques concernant la collecte, l'utilisation et la divulgation des informations personnelles si quelqu'un décide d'utiliser mon service.
 
 Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec personne, sauf comme décrit dans la présente politique de confidentialité.
 
-Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos [conditions générales](https://github.com/G-lalonde/chaud-bateau/blob/master/TermesConditions.md), qui sont accessibles à Chaud Bateau, sauf indication contraire dans la présente politique de confidentialité.
+Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos [conditions générales](https://github.com/G-lalonde/chaud-bateau/blob/master/TermesConditions.md), qui sont accessibles à Brosse, sauf indication contraire dans la présente politique de confidentialité.
 
 **Collecte et utilisation des informations**
 
@@ -56,7 +56,7 @@ Ces Services ne s'adressent à personne de moins de 13 ans. Je ne recueille pas 
 
 Je peux mettre à jour notre politique de confidentialité de temps en temps. Il est donc conseillé de consulter régulièrement cette page pour tout changement. Je vous informerai de tout changement en publiant la nouvelle politique de confidentialité sur cette page.
 
-Cette politique est en vigueur à compter du 2020-05-09
+Cette politique est en vigueur à compter du 4 septembre 2020
 
 **Nous contacter**
 
