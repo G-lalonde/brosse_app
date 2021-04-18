@@ -12,6 +12,8 @@
   </a>
 </p>
 
+<a href="https://www.buymeacoffee.com/pasunsaoul"><img src="https://img.buymeacoffee.com/button-api/?text= Paie-nous une bière.&emoji=🍺&slug=pasunsaoul&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 <table>
 <td><img src="./img/6.5/screenHome.jpg" width="220px" height="auto" alt="screenHome"></td>
 <td><img src="./img/6.5/screen1.jpg" width="220px" height="auto" alt="screen1"></td>
