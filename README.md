@@ -3,7 +3,7 @@
 # Brosse app
 
 <p >
-  <a href="https://testflight.apple.com/join/qqLR8ghy">
+  <a href="https://testflight.apple.com/join/f9sB6GNb">
     <img alt="Download on the App Store" title="App Store" src="./img/appstore.svg" width="140">
   </a>
 
@@ -12,7 +12,11 @@
   </a>
 </p>
 
-<a href="https://www.buymeacoffee.com/pasunsaoul"><img src="https://img.buymeacoffee.com/button-api/?text= Paie-nous une bière.&emoji=🍺&slug=pasunsaoul&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+<p>
+  <a href="https://www.buymeacoffee.com/pasunsaoul"><img src="https://img.buymeacoffee.com/button-api/?text=Paie-nous une bière!&emoji=🍺&slug=pasunsaoul&button_colour=7BACAB&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" width="270"></a>
+
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSec2CR4J7JlhyILNk-dUVaaFq8zJgq2xC7WhqvjjggmvJUSRw/viewform?usp=sf_link"><img src="./img/suggquestion.svg" width="315"></a>
+</p>
 
 <table>
 <td><img src="./img/6.5/screenHome.jpg" width="220px" height="auto" alt="screenHome"></td>
