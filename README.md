@@ -18,6 +18,9 @@
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSec2CR4J7JlhyILNk-dUVaaFq8zJgq2xC7WhqvjjggmvJUSRw/viewform?usp=sf_link"><img src="./img/suggquestion.svg" width="315"></a>
 </p>
 
+<p align="left">
+<a target="_blank" href="https://www.youtube.com/watch?v=XzqduikX8mg"><img src="img/brosse.gif" width="360px" alt="orchest-0.3.0-demo" /></a/></p>
+
 <table>
 <td><img src="./img/6.5/screenHome.jpg" width="220px" height="auto" alt="screenHome"></td>
 <td><img src="./img/6.5/screen1.jpg" width="220px" height="auto" alt="screen1"></td>
